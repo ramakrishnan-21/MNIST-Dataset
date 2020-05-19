@@ -20,6 +20,11 @@ You need to have installed following softwares and libraries in your machine bef
 * Python 3: https://www.python.org/downloads/
 * Anaconda: https://www.anaconda.com/download/
  
+ 
+
+
+## Performance
+
  I recently achieved an accuracy score of 0.99728 on the public leaderboard.  I am ranked among the top 6% of all teams are currently competing.
 
  
