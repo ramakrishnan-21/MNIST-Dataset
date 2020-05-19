@@ -25,7 +25,7 @@ You need to have installed following softwares and libraries in your machine bef
 
 ## Performance
 
- I recently achieved an accuracy score of 0.99728 on the public leaderboard.  I am ranked among the top 6% of all teams are currently competing.
+ I recently achieved an accuracy score of 0.99728 on the public leaderboard.  I am ranked among the top 6% of all teams that are currently competing.
 
  
  ![energy](./Capture.PNG)
