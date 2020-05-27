@@ -30,7 +30,7 @@ You need to have installed following softwares and libraries in your machine bef
  
  ![energy](./Capture.PNG)
  ## Important Note
- This model will take a lot of time to train. Pre-trained model can be downloaded from <a href = "https://github.com/ramakrishnan-21/MNIST-dataset/tree/master/trained_model">here</a>.You can refer the notebook if you have any difficulites in loading the pre-trained model
+ This model will take a lot of time to train. Pre-trained model can be downloaded from <a href = "https://github.com/ramakrishnan-21/MNIST-dataset/tree/master/Pre-Trained-Model">here</a>.You can refer the notebook if you have any difficulites in loading the pre-trained model
  ## Authors
  Ramakrishnan - Complete Work
 
